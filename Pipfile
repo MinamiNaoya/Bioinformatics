@@ -12,6 +12,11 @@ umap-learn = "==0.5.3"
 leidenalg = "==0.8.10"
 pyro-ppl = "==1.8.1"
 scvi = "==0.6.8"
+optuna = "*"
+lifelines = "*"
+geoparse = "*"
+transformers = "*"
+sentencepiece = "*"
 
 [dev-packages]
 
